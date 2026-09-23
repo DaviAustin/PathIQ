@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines task management by enabling users to quickly assign and track actions, enhancing productivity and team collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
